@@ -11,6 +11,11 @@
   "engines": {
     "node": "8.9.4"
   },
+  "keywords": [
+    "node",
+    "heroku",
+    "express"
+  ],
   "author": "",
   "license": "ISC",
   "dependencies": {
@@ -24,5 +29,9 @@
     "mocha": "^3.0.2",
     "nodemon": "^1.10.2",
     "supertest": "^2.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Wael-Zoaiter/mongotesttodo.git"
   }
 }
